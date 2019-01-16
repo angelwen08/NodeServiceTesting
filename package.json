@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wuhanyumsft/type2docfx.git"
+    "url": "https://github.com/angelwen08/NodeServiceTesting"
   },
   "author": "Angela",
   "license": "Apache-2.0",
